@@ -1,0 +1,5 @@
+FastAPI is a high-performance web framework for building APIs with Python 3.7+.
+FAISS is a library for efficient similarity search and clustering of dense vectors.
+OpenAI's GPT models can be used for generating natural language answers.
+Retrieval-Augmented Generation (RAG) improves factual accuracy by using external documents.
+SentenceTransformers is used to convert text into embeddings.
